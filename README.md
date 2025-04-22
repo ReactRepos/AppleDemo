@@ -6,7 +6,7 @@ This is a visually rich, interactive **demo website** showcasing the **Apple iPh
 
 ## 🎥 Demo
 
-> 📽️ Check out the live demo video below (replace with actual video link after upload):
+> 📽️ Check out the live demo video below:
 
 ![iPhone 15 Demo](./public/iphone15.gif)
 
