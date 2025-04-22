@@ -8,7 +8,7 @@ This is a visually rich, interactive **demo website** showcasing the **Apple iPh
 
 > 📽️ Check out the live demo video below (replace with actual video link after upload):
 
-**[▶️ Watch Demo](https://github.com/your-username/iphone15-demo/assets/your-video-link)**
+![iPhone 15 Demo](./public/iphone15.gif)
 
 ---
 
@@ -56,6 +56,6 @@ To get the project running locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/iphone15-demo.git
-cd iphone15-demo
+git clone https://github.com/ReactRepos/AppleDemo.git
+cd AppleDemo
 ```
